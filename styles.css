@@ -1,0 +1,66 @@
+
+.hi {
+ 
+     font-family: 'Mukta', sans-serif;
+   
+     font-size: 17px;
+        background-color: white;
+    text-align: center;
+}
+
+.hello {
+
+    font-family: 'Mukta', sans-serif;
+    font-size: 17px;
+    background-color: white;
+
+}
+
+.one {
+    color: pink;
+     font-size: 45px;
+     font-family: sans-serif;
+     background-color: white;
+     background: url("https://images.unsplash.com/photo-1528819027803-5473f2bf7633?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max");
+    text-align: center;
+   
+}
+
+.two {
+    color: white;
+    font-size: 35px;
+     font-family: sans-serif;
+    text-align: center;
+     text-shadow: 0 0 3px #d15ecd;
+
+}
+
+.three {
+    color: pink;
+    font-size: 24px;
+    background-color: white;
+    font-family: 'Nerko One', cursive;
+     background: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    text-align: center;
+}
+
+
+
+img {
+    max-width:60%;
+    height:auto; 
+}
+
+img {
+  border: 5px solid pink;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+
